@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*WQQ Project*/
+
 int main(void)
 {
  printf("Welcome to the World of PHYTEC!\n");
